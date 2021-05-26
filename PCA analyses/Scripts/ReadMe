@@ -1,0 +1,4 @@
+Here the four R-studio scripts are provided to get the PCA results
+PCA low and PCA High include all DEB-parameters and derived life history quantities
+PCA low no deb and PCA high no deb only contain the derived life history quantities
+Open te R-studio script and follow the instructions
