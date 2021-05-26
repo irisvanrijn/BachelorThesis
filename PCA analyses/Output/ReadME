@@ -1,2 +1,2 @@
 The output that is used to visualize the fast-slow continuum is given in this folder
-Order the PCA values from low to high and visualize them with a chart
+Order the PCA values from low to high and visualize them with a scatter plot
